@@ -1,0 +1,241 @@
+input[type="text"] {
+    
+    box-sizing: border-box;
+    border: 1px solid #17786B;
+    border-radius: 8px;
+    outline: #17786B;
+    padding: 12px 14px;
+    margin-left: 1120px;
+    padding-top: 10px;
+    height: 40px;
+    margin-top: 7.5px;
+    color: white;
+  }
+.main{
+    width: 101%;
+    height: 1000px;
+    background-color: white;
+}
+.khung1{
+    width: 101%;
+    height: 100px;
+    background-color: #4BA89C;
+    margin: -7.6125px;
+}
+.khung2{
+    width: 101%;
+    height: 56px;
+    background-color: #20897B;
+    margin: -7.6125px;
+}
+.home{
+   
+    margin-top: -42px;
+    margin-left: 880px;
+    position: absolute;
+
+}
+.home:hover{
+    background-color: #103430;
+    position: absolute;
+    box-sizing: border-box;
+    border-radius: 8px;
+    transition: 1s;
+}
+.search{
+    background-color: #17786B;
+    width: 180px;
+    height: 25px;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 5px;
+}
+.khung3{
+    width: 101%;
+    height: 40px;
+    background-color: #EEEEEE;
+    margin:-7.6125px ;
+    margin-top: 5px;
+
+}
+.text{
+    color: #3B897B;
+    margin-left: 220px;  
+    font-size: 15px; 
+    margin-top: 20px;
+}
+.text:hover{
+    border-bottom: 1px solid #3B897B;
+}
+.customise{
+    background-color: #CDCDCD;
+    width: 180px;
+    height: 30px;
+    position: absolute;
+    color: #585872;
+    font-family: align-selfstart;
+    font-size: 15px;
+    margin-left: 1135.5px;
+    margin-top: -24.5px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.noidung1{
+    width: 300px;
+    height: 432px;
+    border: 2px solid #C0DCDB;
+    margin-left: 210px;
+    margin-top: 30px;
+
+}
+.in1{
+    width: 300px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.title{
+    font-size: 30px;
+    color: #20897B;
+    font-family: align-selfstart;
+    position: absolute;
+    margin: 10px;
+    margin-top: 15px;
+}
+.ndtt{
+    color:#20897B ;
+    font-size: 19px;
+    font-family:align-selfstart ;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+.ndtt:hover{
+    border-bottom: 1px solid  #C0DCDB;
+    
+}
+.noidung2{
+    width: 600px;
+    height: 130px;
+    border: 2px solid #C0DCDB;
+    margin-left: 530px;
+    margin-top: -435.5px;
+
+}
+.in2{
+    width: 600px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.noidung3{
+    width: 600px;
+    height: 130px;
+    border: 2px solid #C0DCDB;
+    margin-left: 530px;
+    margin-top: 15px;
+
+}
+.noidung4{
+    width: 300px;
+    height:200px;
+    border: 2px solid #C0DCDB;
+    margin-left: 210px;
+    margin-top: 170px;
+
+}
+.in4{
+    width: 300px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.noidung5{
+    width: 270px;
+    height:280px;
+    border: 2px solid #C0DCDB;
+    margin-left: 1150px;
+    margin-top: -657px;
+
+}
+.in5{
+    width: 270px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.noidung6{
+    width: 270px;
+    height:280px;
+    border: 2px solid #C0DCDB;
+    margin-left: 1150px;
+    margin-top: 15px;
+
+}
+.in6{
+    width: 270px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.noidung7{
+    width: 270px;
+    height:180px;
+    border: 2px solid #C0DCDB;
+    margin-left: 1150px;
+    margin-top: 15px;
+
+}
+.in7{
+    width: 270px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.noidung8{
+    width: 270px;
+    height:330px;
+    border: 2px solid #C0DCDB;
+    margin-left: 1150px;
+    margin-top: 15px;
+
+}
+.in8{
+    width: 270px;
+    height: 70px;
+    border-bottom: 2px solid #C0DCDB;
+    background-color: #E4F7F6;
+}
+.khung4{
+    width: 101%;
+    height: 200px;
+    background-color: #4BA89C;
+    margin: -7.6125px;
+    margin-top: 15px;
+}
+.khung5{
+    width: 101%;
+    height: 50px;
+    background-color:#20897B;
+    margin: -7.6125px;
+    margin-top: 8.1px;
+}
+.link:hover{
+    border-bottom: 1px solid white;
+}
+i.icon:hover{
+    background-color: black;
+
+}
+.login{
+    width: 850px;
+    height: 260px;
+    background-color: #20897B;
+    border:5px solid rgb(207, 207, 207);
+    margin: 300px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
